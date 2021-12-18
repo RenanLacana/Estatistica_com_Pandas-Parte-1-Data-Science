@@ -1,2 +1,2 @@
-# Estat-stica-Parte-1
+# Estatística-Parte-1
 Pandas, Numpy e Seaborn Studies
